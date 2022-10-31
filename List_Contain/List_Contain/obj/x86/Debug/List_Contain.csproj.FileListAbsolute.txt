@@ -1,0 +1,11 @@
+F:\wpf_mytest\List_Contain\List_Contain\List_Contain\bin\Debug\List_Contain.exe
+F:\wpf_mytest\List_Contain\List_Contain\List_Contain\bin\Debug\List_Contain.pdb
+F:\wpf_mytest\List_Contain\List_Contain\List_Contain\obj\x86\Debug\MainWindow.baml
+F:\wpf_mytest\List_Contain\List_Contain\List_Contain\obj\x86\Debug\MainWindow.g.cs
+F:\wpf_mytest\List_Contain\List_Contain\List_Contain\obj\x86\Debug\App.g.cs
+F:\wpf_mytest\List_Contain\List_Contain\List_Contain\obj\x86\Debug\List_Contain_MarkupCompile.cache
+F:\wpf_mytest\List_Contain\List_Contain\List_Contain\obj\x86\Debug\List_Contain.g.resources
+F:\wpf_mytest\List_Contain\List_Contain\List_Contain\obj\x86\Debug\List_Contain.Properties.Resources.resources
+F:\wpf_mytest\List_Contain\List_Contain\List_Contain\obj\x86\Debug\List_Contain.csproj.GenerateResource.Cache
+F:\wpf_mytest\List_Contain\List_Contain\List_Contain\obj\x86\Debug\List_Contain.exe
+F:\wpf_mytest\List_Contain\List_Contain\List_Contain\obj\x86\Debug\List_Contain.pdb
